@@ -1,0 +1,121 @@
+[
+  {
+    "name": "one_declaration",
+    "exit": 0
+  },
+  {
+    "name": "leading_zeros",
+    "exit": 0
+  },
+  {
+    "name": "keyword_boundary",
+    "exit": 0
+  },
+  {
+    "name": "uppercase_identifier",
+    "exit": 0
+  },
+  {
+    "name": "multiline",
+    "exit": 0
+  },
+  {
+    "name": "comment_eof",
+    "exit": 0
+  },
+  {
+    "name": "comment_next_line",
+    "exit": 0
+  },
+  {
+    "name": "addition",
+    "exit": 0
+  },
+  {
+    "name": "subtraction",
+    "exit": 0
+  },
+  {
+    "name": "parentheses",
+    "exit": 0
+  },
+  {
+    "name": "identifier_expression",
+    "exit": 0
+  },
+  {
+    "name": "multiple",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "print_unknown",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "empty",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "comment_only",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "missing_name",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "missing_semicolon",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "missing_operand",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "unknown_character",
+    "exit": 1,
+    "diagnostic": "Lexical error"
+  },
+  {
+    "name": "trailing_lex_error",
+    "exit": 1,
+    "diagnostic": "Lexical error"
+  },
+  {
+    "name": "wrong_order",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "int_not_in_grammar",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "unary_minus",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "unbalanced",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "line2_error",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  },
+  {
+    "name": "print_parentheses",
+    "exit": 1,
+    "diagnostic": "Syntax error"
+  }
+]

@@ -1,0 +1,18 @@
+Validated 20 September 2026
+
+quectoc-phase2-preview: build=0; tests=28/28 checks passed
+01_One_Declaration: build=0; tests=28/28 checks passed
+02_Expressions: build=0; tests=28/28 checks passed
+03_Statements: build=0; tests=28/28 checks passed
+flex 2.6.4
+bison (GNU Bison) 3.8.2
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
+Optional CMake 3.28.3: configuration/build passed; 28/28 checks passed.
+
+Sequential checkpoint edits, with both build methods:
+01_One_Declaration / build/quectoc-parser: 28/28 checks passed
+01_One_Declaration / build-cmake/quectoc-parser: 28/28 checks passed
+02_Expressions / build/quectoc-parser: 28/28 checks passed
+02_Expressions / build-cmake/quectoc-parser: 28/28 checks passed
+03_Statements / build/quectoc-parser: 28/28 checks passed
+03_Statements / build-cmake/quectoc-parser: 28/28 checks passed
