@@ -1,1 +1,1 @@
-let total=12;
+let total=12
